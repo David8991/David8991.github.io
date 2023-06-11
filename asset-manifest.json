@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3de7a24d.css",
+    "main.js": "/static/js/main.b77d79af.js",
+    "static/js/787.b5aa3df0.chunk.js": "/static/js/787.b5aa3df0.chunk.js",
+    "static/media/03-big.gif": "/static/media/03-big.1a791f46e39de9514f15.gif",
+    "static/media/02-big.gif": "/static/media/02-big.116a4500e073e7b67b91.gif",
+    "static/media/01-big.gif": "/static/media/01-big.b439927d9e45007873ee.gif",
+    "static/media/04-big.gif": "/static/media/04-big.582d0b8125b978ace4de.gif",
+    "static/media/03.png": "/static/media/03.856d60f538a112f50141.png",
+    "static/media/02.png": "/static/media/02.9f743235988a45b8a5c6.png",
+    "static/media/06.png": "/static/media/06.8bedd0abe432f47f6233.png",
+    "static/media/06-big.gif": "/static/media/06-big.f92a845d65440fe6b142.gif",
+    "static/media/01.png": "/static/media/01.135e9f117dbdd393066a.png",
+    "static/media/header-bg.svg": "/static/media/header-bg.329d725bd6e4d300d69a.svg",
+    "static/media/05.png": "/static/media/05.9d9963cfa3cb3296390a.png",
+    "static/media/04.png": "/static/media/04.2d005a4831c87ec4855c.png",
+    "static/media/05-big.gif": "/static/media/05-big.f12766da33adce985824.gif",
+    "static/media/sun.svg": "/static/media/sun.4d47962acd6c83e7e7aca592ec39545f.svg",
+    "static/media/moon.svg": "/static/media/moon.829f022e764b1d37016e364c5447dfdb.svg",
+    "static/media/gitHub.svg": "/static/media/gitHub.db1e3cfa3aa61658d837d82e113dc1fe.svg",
+    "static/media/gitHub-black.svg": "/static/media/gitHub-black.61157a57f0853aa9fd2f3622b730cdfc.svg",
+    "static/media/whatsapp.svg": "/static/media/whatsapp.80b1d6a405b54e85d9cd181077981e05.svg",
+    "static/media/netlify-black.svg": "/static/media/netlify-black.b69248f79b9246959220ebda75a29c8f.svg",
+    "static/media/telegram.svg": "/static/media/telegram.ecf0987a918bc602662f5c1408fce366.svg",
+    "static/media/vk.svg": "/static/media/vk.ffb489eeac4ab842395ffb315910ea7f.svg",
+    "static/media/linkedIn.svg": "/static/media/linkedIn.c05a2ae5b158581b0f27510e1d79e379.svg",
+    "index.html": "/index.html",
+    "main.3de7a24d.css.map": "/static/css/main.3de7a24d.css.map",
+    "main.b77d79af.js.map": "/static/js/main.b77d79af.js.map",
+    "787.b5aa3df0.chunk.js.map": "/static/js/787.b5aa3df0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3de7a24d.css",
+    "static/js/main.b77d79af.js"
+  ]
+}
