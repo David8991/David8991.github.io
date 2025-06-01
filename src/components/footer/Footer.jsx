@@ -12,11 +12,6 @@ export default function Footer () {
                 <div className="footer__wrapper">
                     <ul className="social">
                         <li className="social__item">
-                            <a href="#!">
-                                <img src={vk} alt="Link"/>
-                            </a>
-                        </li>
-                        <li className="social__item">
                             <a 
                                 href="https://api.whatsapp.com/send?phone=79884025714"
                                 target="_blank"
