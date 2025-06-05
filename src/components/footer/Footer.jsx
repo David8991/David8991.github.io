@@ -45,7 +45,7 @@ export default function Footer () {
                         </li>
                     </ul>
                     <div className="copyright">
-                        <p>© 2023 Muradyan-dev.com</p>
+                        <p>© {new Date().getFullYear()} Muradyan-dev.com</p>
                     </div>
                 </div>
             </div>
