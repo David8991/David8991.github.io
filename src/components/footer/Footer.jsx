@@ -39,7 +39,7 @@ export default function Footer () {
                             </a>
                         </li>
                         <li className="social__item">
-                            <a href="#!">
+                            <a href="https://www.linkedin.com/in/david-muradyan-892ba8275">
                                 <img src={linkedIn} alt="Link"/>
                             </a>
                         </li>
