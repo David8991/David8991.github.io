@@ -11,11 +11,11 @@ export default function Contacts () {
                         </li>
                         <li className="content-list__item">
                             <h2 className="title-2">Telegram / WhatsApp</h2>
-                            <p><a href="tel:+79051234567">+7 (988) 402-57-14</a></p>
+                            <p><a href="tel:+79388883058">+7 (938) 888-30-58</a></p>
                         </li>
                         <li className="content-list__item">
                             <h2 className="title-2">Email</h2>
-                            <p><a href="mailto:webdev@protonmail.com">muradyan98@list.ru</a></p>
+                            <p><a href="mailto:muradyan98@list.ru">muradyan98@list.ru</a></p>
                         </li>
                     </ul>
 

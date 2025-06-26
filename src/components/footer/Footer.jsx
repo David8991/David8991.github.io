@@ -13,7 +13,7 @@ export default function Footer () {
                     <ul className="social">
                         <li className="social__item">
                             <a 
-                                href="https://api.whatsapp.com/send?phone=79884025714"
+                                href="https://api.whatsapp.com/send?phone=79388883058"
                                 target="_blank"
                                 rel="noreferrer"
                             >
@@ -40,7 +40,7 @@ export default function Footer () {
                         </li>
                         <li className="social__item">
                             <a 
-                                href="https://www.linkedin.com/in/david-muradyan-892ba8275"
+                                href="www.linkedin.com/in/david-muradyan98"
                                 target="_blank"
                                 rel="noreferrer"
                             >
